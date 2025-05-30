@@ -12,11 +12,7 @@ This project focuses on classifying breast cancer tumors as benign (non-cancerou
 - [Data Preprocessing](#data-preprocessing)
 - [Model Training](#model-training)
 - [Model Evaluation](#model-evaluation)
-- [Conclusion](#conclusion)
 - [Dependencies](#dependencies)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 
