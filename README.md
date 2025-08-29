@@ -9,7 +9,6 @@ This project focuses on classifying breast cancer tumors as benign (non-cancerou
 - [Introduction](#introduction)
 - [Data Collection](#data-collection)
 - [Exploratory Data Analysis (EDA)](#exploratory-data-analysis-eda)
-- [Data Preprocessing](#data-preprocessing)
 - [Model Training](#model-training)
 - [Model Evaluation](#model-evaluation)
 - [Dependencies](#dependencies)
